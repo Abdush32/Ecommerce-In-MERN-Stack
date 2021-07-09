@@ -1,0 +1,15 @@
+.btn,
+
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #0A0A0A;
+  margin: 0;
+  padding:0;
+}
+
+
+
+
